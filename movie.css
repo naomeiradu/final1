@@ -1,0 +1,61 @@
+nav{
+    display: inline-block;
+}
+nav ul li a{
+  
+
+  
+        margin-top:0;
+    display: block; 
+    color: black; 
+    text-align: center; 
+    padding: 8px 8px;
+    text-decoration: none;
+    
+    font-size: 20px;
+    
+    }
+
+header{
+        display: float;
+        background:lightblue;
+        padding: 20px;}
+        nav li {
+            text-align:center;
+           
+            margin-bottom: 5px;
+            display:inline-block;
+           
+            
+            
+        }
+        footer{
+            margin-top: 130px;
+            display: float;
+            background-color: lightblue;
+            padding: 20px;
+        }
+        section{
+            margin-top: 20px;
+             
+        }
+       p{
+           display: inline-block;
+        
+       }
+     
+   body{
+       background-color: aquamarine;
+       margin-left: 60px;
+       margin-right: 60px;
+
+   }
+   .pic{
+       text-align:center;
+   }
+   
+   .vv aside{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 4px;
+}
